@@ -7,7 +7,7 @@ La idea es reunir en un solo lugar ejercicios, proyectos pequeños y desarrollos
 
 ## Tecnologías y herramientas
 - **Lenguaje:** Python 3.10+  
-- **IDE recomendado:** VS Code / PyCharm / Thonny / Jupyter Notebook  
+- **IDE recomendado:** VS Code / PyCharm
 - **Ejecución:** `python archivo.py` o entornos virtuales con `venv` / `pipenv` / `poetry` (para proyectos más grandes)
 
 ---
@@ -21,5 +21,8 @@ La idea es reunir en un solo lugar ejercicios, proyectos pequeños y desarrollos
 ---
 
 ## Proyectos
+
+- [Calculadora básica](./calculadora.py)
+Calculadora con operaciones de suma, resta, multiplicación, división y potencia. Manejo de errores de entradas no numéricas y división entre cero.
 
 ✍️ *Este repositorio crecerá con el tiempo conforme vaya creando y subiendo nuevos proyectos.*
