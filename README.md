@@ -24,5 +24,9 @@ La idea es reunir en un solo lugar ejercicios, proyectos pequeños y desarrollos
 
 - [Calculadora básica](./calculadora.py)
 Calculadora con operaciones de suma, resta, multiplicación, división y potencia. Manejo de errores de entradas no numéricas y división entre cero.
+-[Presentacion automatica](./Presentacion automatica.py)
+Este script crea una ventana con campos de entrada para nombre, edad y pasatiempo.
+Al presionar el botón, muestra un mensaje personalizado con la información del usuario.
+Primer experimento con Tkinter para práctica de Python.
 
 ✍️ *Este repositorio crecerá con el tiempo conforme vaya creando y subiendo nuevos proyectos.*
