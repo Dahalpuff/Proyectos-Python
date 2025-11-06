@@ -5,14 +5,14 @@ La idea es reunir en un solo lugar ejercicios, proyectos pequeños y desarrollos
 
 ---
 
-## Tecnologías y herramientas
+##  Tecnologías y herramientas
 - **Lenguaje:** Python 3.10+  
-- **IDE recomendado:** VS Code / PyCharm
-- **Ejecución:** `python archivo.py` o entornos virtuales con `venv` / `pipenv` / `poetry` (para proyectos más grandes)
+- **IDE recomendado:** VS Code / PyCharm  
+- **Ejecución:** `python archivo.py` o entornos virtuales con `venv`, `pipenv` o `poetry` (para proyectos más grandes)
 
 ---
 
-## Objetivo
+##  Objetivo
 - Reforzar fundamentos de Python.  
 - Practicar programación orientada a objetos y programación funcional.  
 - Desarrollar lógica de programación, estructuras de datos y manejo de librerías.  
@@ -20,13 +20,17 @@ La idea es reunir en un solo lugar ejercicios, proyectos pequeños y desarrollos
 
 ---
 
-## Proyectos
+##  Proyectos
 
-- [Calculadora básica](./calculadora.py)
-Calculadora con operaciones de suma, resta, multiplicación, división y potencia. Manejo de errores de entradas no numéricas y división entre cero.
--[Presentacion automatica](./Presentacion automatica.py)
-Este script crea una ventana con campos de entrada para nombre, edad y pasatiempo.
-Al presionar el botón, muestra un mensaje personalizado con la información del usuario.
-Primer experimento con Tkinter para práctica de Python.
+- [Calculadora básica](./calculadora.py)  
+  Calculadora con operaciones de suma, resta, multiplicación, división y potencia.  
+  Manejo de errores de entradas no numéricas y división entre cero.
+
+- [Presentación automática](./Presentacion_automatica.py)  
+  Este script crea una ventana con campos de entrada para nombre, edad y pasatiempo.  
+  Al presionar el botón, muestra un mensaje personalizado con la información del usuario.  
+  Primer experimento con Tkinter para práctica de Python.
+
+---
 
 ✍️ *Este repositorio crecerá con el tiempo conforme vaya creando y subiendo nuevos proyectos.*
