@@ -1,0 +1,31 @@
+import random
+
+#Se pregunta el dado que se necesita
+dado_tipo = int(input("Selecciona un tipo de dado: \n1. D4\n2. D6\n3. D8\n4. D10\n5. D12\n6. D20\n7. D100\n\n"))
+
+#Se utiliza case como alternativa a un switch
+match dado_tipo:
+    case 1:
+        numero = random.randint(1,4)
+        
+    case 2:
+        numero = random.randint(1,6)
+        print("El resultado es:", numero)
+    case 3:
+        numero = random.randint(1,8)
+        print("El resultado es:", numero)
+    case 4:
+        numero = random.randint(1,10)
+        print("El resultado es:", numero)
+    case 5:
+        numero = random.randint(1,12)
+        print("El resultado es:", numero)
+    case 6:
+        numero = random.randint(1,20)
+        print("El resultado es:", numero)
+    case 7:
+        numero = random.randint(1,100)
+        print("El resultado es:", numero)
+    case _:
+        print("No es una opcion valida")
+        exit()
